@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background: "https://ibb.co/n3BMOQ";
+background-image: url("https://ibb.co/n3BMOQ");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .container {
