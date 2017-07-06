@@ -10,4 +10,4 @@ published: true
   <tr>
     <td>Title:  </td>
     <td>Adding A Game To My Blog
-<iframe src="http://www.freeonlinegames.com/embed/142836" width="670" height="550" frameborder="no" scrolling="no"></iframe>
+<a href="#" onClick=window.open("https://www.thepcmanwebsite.com/media/soccer_kickup/","","menubar=0,resizable=1,scrollbars=1,status=0,titlebar=0,toolbar=0")>Soccer</a>
