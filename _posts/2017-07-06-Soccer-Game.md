@@ -10,4 +10,4 @@ published: true
   <tr>
     <td>Title:  </td>
     <td>Adding A Game To My Blog
-<a href="#" onClick=window.open("https://www.thepcmanwebsite.com/media/soccer_kickup/","","menubar=0,resizable=1,scrollbars=1,status=0,titlebar=0,toolbar=0")>Soccer</a>
+<iframe src="https://cloudgames.com/games/html5/minigolf-new-en-s-iga-cloud/index.html?pub=10" name="cloudgames-com" width="990" height="532" frameborder="0" scrolling="no"></iframe>
