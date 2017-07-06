@@ -10,4 +10,4 @@ published: true
   <tr>
     <td>Title:  </td>
     <td>Adding A Game To My Blog
-<iframe src="http://www.freeonlinegames.com/embed/39069" width="800" height="500" frameborder="no" scrolling="no"></iframe>
+<iframe src="http://www.freeonlinegames.com/embed/24455" width="670" height="550" frameborder="no" scrolling="no"></iframe>
